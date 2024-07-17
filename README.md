@@ -4,3 +4,7 @@
 | Date | Resource Person| Description|
 | ----------- | ----------- |
 | 15-07-2024 | Dr. Pyare Lal Garg |(Dr, Garg told us important things! |
+
+| Date | Resource Person| Description|
+| ----------- | ----------- |
+| 15-07-2024 | Dr. Pyare Lal Garg |(Dr, Garg told us important things! |
